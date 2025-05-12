@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f8fe2f1b19f266b1","x":-480,"y":1600,"width":1600,"height":640,"color":"4","type":"group","label":"Revenue"},
+		{"id":"4a0b626892760a59","x":1120,"y":1600,"width":1600,"height":640,"color":"1","type":"group","label":"Costs"},
+		{"id":"910a404e74a2fdd9","x":-480,"y":-160,"width":640,"height":1120,"color":"1","type":"group","label":"Problem"},
+		{"id":"6e2c74a9d6a6963d","x":800,"y":-160,"width":640,"height":1120,"color":"5","type":"group","label":"Unique Value Proposition"},
+		{"id":"90eea5dd80ee7e9f","x":2080,"y":-160,"width":640,"height":1120,"color":"2","type":"group","label":"Customer Segments"},
+		{"id":"b2af8a1396823919","x":160,"y":-160,"width":640,"height":880,"color":"4","type":"group","label":"Solution"},
+		{"id":"e3a39c8ee8a729a2","x":160,"y":720,"width":640,"height":880,"color":"6","type":"group","label":"Key Metrics"},
+		{"id":"8a1528ac935b08e9","x":1440,"y":-160,"width":640,"height":880,"color":"6","type":"group","label":"Unfair Advantage"},
+		{"id":"d40fd06d862f4110","x":1440,"y":720,"width":640,"height":880,"color":"3","type":"group","label":"Channels"},
+		{"id":"d50e44d63a5a71c2","x":-480,"y":960,"width":640,"height":640,"color":"3","type":"group","label":"Existing Alternatives"},
+		{"id":"1782dc98ceb7ce0a","x":800,"y":960,"width":640,"height":640,"color":"2","type":"group","label":"High-Level Concept"},
+		{"id":"10e499bb200aa9c9","x":2080,"y":960,"width":640,"height":640,"color":"5","type":"group","label":"Early Adopters"}
+	],
+	"edges":[]
+}
