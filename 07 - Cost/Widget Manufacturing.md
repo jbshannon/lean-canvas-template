@@ -1,0 +1,3 @@
+- It costs some money to make our [[Widget|widgets]]
+	- Supplier A
+	- Supplier B

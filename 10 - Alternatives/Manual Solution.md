@@ -1,0 +1,1 @@
+- [[Customer A|Somebody]] sits down and spends several days in a spreadsheet

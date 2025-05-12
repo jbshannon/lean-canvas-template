@@ -1,0 +1,2 @@
+- Decision-maker within the firm
+- Exploring new technologies

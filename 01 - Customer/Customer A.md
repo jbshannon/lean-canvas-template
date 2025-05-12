@@ -1,0 +1,1 @@
+- This customer has some characteristics
