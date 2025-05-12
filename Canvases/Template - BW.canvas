@@ -11,7 +11,19 @@
 		{"id":"d40fd06d862f4110","type":"group","x":1440,"y":720,"width":640,"height":880,"label":"Channels"},
 		{"id":"d50e44d63a5a71c2","type":"group","x":-480,"y":960,"width":640,"height":640,"label":"Existing Alternatives"},
 		{"id":"1782dc98ceb7ce0a","type":"group","x":800,"y":960,"width":640,"height":640,"label":"High-Level Concept"},
-		{"id":"10e499bb200aa9c9","type":"group","x":2080,"y":960,"width":640,"height":640,"label":"Early Adopters"}
+		{"id":"10e499bb200aa9c9","type":"group","x":2080,"y":960,"width":640,"height":640,"label":"Early Adopters"},
+		{"id":"fc8f07f620b6a558","type":"file","file":"02 - Problem/A's Problem.md","x":-460,"y":-140,"width":600,"height":110},
+		{"id":"9228a35e05b57ea9","type":"file","file":"04 - Solution/Widget.md","x":180,"y":-140,"width":600,"height":110},
+		{"id":"4e4cc0da019bb0dd","type":"file","file":"10 - Alternatives/Manual Solution.md","x":-460,"y":980,"width":600,"height":100},
+		{"id":"3debe04d98cd0163","type":"file","file":"08 - Metrics/Number of Widgets Sold.md","x":180,"y":740,"width":600,"height":120},
+		{"id":"c78b87cc0063b666","type":"file","file":"01 - Customer/Customer A.md","x":2100,"y":-140,"width":600,"height":110},
+		{"id":"8b98e06087bdf47b","type":"file","file":"03 - UVP/Unbelievable Value.md","x":825,"y":-140,"width":595,"height":160},
+		{"id":"dfd7dbceb3f3047c","type":"file","file":"09 - Unfair Advantage/No Widget Like It.md","x":1460,"y":-140,"width":600,"height":110},
+		{"id":"171a24d02e6e26ba","type":"file","file":"05 - Channels/Widget Conventions.md","x":1460,"y":740,"width":600,"height":120},
+		{"id":"08f26ebbda0ec6a3","type":"file","file":"07 - Cost/Widget Manufacturing.md","x":1140,"y":1620,"width":360,"height":200},
+		{"id":"7ab233e1f35415e9","type":"file","file":"01 - Customer/Customer B.md","x":2100,"y":980,"width":600,"height":160},
+		{"id":"94a4945b8629ca83","x":-460,"y":1620,"width":400,"height":400,"type":"file","file":"06 - Revenue/Widget Sales.md"},
+		{"id":"7fd460fe6d4a11cb","x":-20,"y":1620,"width":400,"height":400,"type":"file","file":"06 - Revenue/Widget Subscriptions.md"}
 	],
 	"edges":[]
 }
